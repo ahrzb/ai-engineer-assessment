@@ -1,0 +1,501 @@
+﻿address,matched_address,semantic_similarity
+"Germany,Schirgiswalde,2681","Untenende 2, 26817 Rhauderfehn, Germany",0
+"Katschberghöhe 38 , A-9863 RENNWEG AM KATSCHB. , AT","Atalaia do Norte, Amazonas, Brazil",0
+"VIA XXV APRILE NR. 6 ,  , IT","Via Trieste 21, 35010 San Giorgio delle Pertiche Padua, Italy",0
+"5572, Sankt AndrÃ¤ im Lungau, Austria","Lengau, Upper Austria, Austria",0
+"Germany,Tanne,38875","Am Wasserturm 2, 73104 Börtlingen, Germany",0
+"4552, Wartberg, Austria","Wartberg 17, 3730 Straning-Grafenberg, Austria",0
+"calle Ali Bey 135local 1, 08013 Barcelona Spain","Carrer De Sardenya 289, 08013 Barcelona, Barcelona, Spain",0.3
+"United Kingdom,Little Sutton ,CH66 4JD","339 Chester Road, Ellesmere Port, CH66 3RG, United Kingdom",0.3
+"Fao. Krisztina Gerendás, Budapest, Hongarije","Budapest, Gerenda Utca 19, 1163, Hungary",0.3
+"Veursestraatweg 88-90, 2265 CE Leidschendam Netherlands","Oude Trambaan 65, 2265 CA Leidschendam, Netherlands",0.3
+"2 RUE DE LA CITE - IMMEUBLE DE LA CITE -, 75004 PARIS France","4 Rue Du Bourg Tibourg, 75004 Paris, France",0.3
+"(Sao Martinho do Bougado), Rua das Bocas, 168, 4785-191 Trofa Portugal","Rua Da Liberdade 67, 7580-551 São Martinho, Setúbal, Portugal",0.3
+"5594 CB, Veldhoven, Netherlands","Veldhoven, 5081 NK Hilvarenbeek, Netherlands",0.3
+"Hantumerweg 28, 9101 HB DOKKUM Netherlands","De Wissel, 9101 AB Dokkum, Netherlands",0.3
+"Place de Rome 5, 13006 Marseille France","47 Cours Lieutaud, 13006 Marseille, France",0.4
+"84036, Kumhausen, Germany","Innere Münchener Straße 54, 84036 Landshut, Germany",0.5
+"13100, Le Tholonet, France","31 Rue Du Maréchal Foch, 13100 Aix-en-Provence, France",0.5
+"Emiel van dorenlaan 302, 3600 Genk Belgium","Emiel Van Dorenlaan 135, 3600 Genk, Limburg, Belgium",0.5
+"1562 GA, Krommenie, Netherlands","Waterjuffer 13, 1562 LA Krommenie, Netherlands",0.5
+"1019 JR, Amsterdam, Netherlands","C. Van Eesterenlaan 220, 1019 JL Amsterdam, Netherlands",0.5
+"Germany,Bremen-Hemelingen,28309","Zum Sebaldsbrücker Bahnhof 59, 28309 Bremen, Germany",0.5
+"France,La celle les bordes,78720","1d Rue De Limours, 78720 Cernay-la-Ville, France",0.5
+"Germany,Malching,94094","Marktplatz 39, 94094 Rotthalmünster, Germany",0.5
+"Oberspreestraße 61LTruKa des, 12439 Berlin Germany","Oberspreestraße 67a, 12489 Berlin, Germany",0.5
+"Navalaldea Pab. B2A, 20110 Pasai Donibane (Gipuzkoa) Spain","Araneder Kalea 2, 20110 Pasaia, Gipuzkoa, Spain",0.5
+"Rue Du Boucaud 16, 85330 NOIRMOUTIER EN L ILE France","2 Grande Rue, 85330 Noirmoutier-en-l'Île, France",0.5
+"Germany,Südergellersen,21394","Lüneburger Straße 2, 21394 Kirchgellersen, Germany",0.5
+"United Kingdom,weston coyney,ST3 6RB","384 Weston Road, Stoke-on-Trent, ST3 6QA, United Kingdom",0.5
+"Avenue des Arts 6/501, 1210 Bruxelles Belgium","Avenue Des Arts - Kunstlaan 30, 1040 Brussels, Brussels-Capital, Belgium",0.6
+"The Netherlands,Amsterdam,1053 TP","Jan Hanzenstraat 301, 1053 SP Amsterdam, Netherlands",0.6
+"1813 KN, Alkmaar, Netherlands","Huibert Pootlaan 244, 1813 ML Alkmaar, Netherlands",0.6
+"Parq. Tecnológico;¡ - C/ Auguste y Louis Lumière, 26, 46980 Paterna Spain","Ronda De Auguste I Louis Lumière 16, 46980 Paterna, Valencia, Spain",0.6
+"Via Bergognone 34, 20144 Milano Italy","Via Bergognone 34, 20014 Nerviano Milan, Italy",0.6
+"France,LA ROCHETTE,77000","1 Rue Saint-Aspais, 77000 Melun, France",0.6
+Tramstraat6 2260 Oevel BE,"Tramstraat 6c, 2260 Westerlo, Antwerp, Belgium",0.6
+"Germany,Braak,22145","Saseler Straße 2, 22145 Hamburg, Germany",0.6
+"Germany,Eigeltingen,78256","Lange Straße 18, 78256 Steißlingen, Germany",0.6
+"YO24 2QY, Yoro, United Kingdom","80 Moor Lane, York, YO24 2QY, United Kingdom",0.6
+"1405 HB, Bussum, Netherlands","Gudelalaan 1, 1405 GS Bussum, Netherlands",0.6
+"Germany,Griefstedt,99638","Topfmarkt 1, 99638 Kindelbrück, Germany",0.6
+"Germany,Kreuztal - Kredenbach,57223","Bahnhofstraße 7, 57223 Kreuztal, Germany",0.7
+"Parnell Street  13, Ennis County Clare  Ireland","24-26 Parnell Street, Ennis, Clare V95 P306, Ireland",0.7
+"Kloosterlandstraat 7A, 9290 Overmere Belgium","Kloosterlandstraat 7a, 9290 Berlare, East Flanders, Belgium",0.7
+"2912 AC, Nieuwerkerk a/d IJssel, Netherlands","Dorrestein 19, 2912 BC Nieuwerkerk aan den IJssel, Netherlands",0.7
+"The Netherlands,'s-Gravenhage,2592TH","Haverkamp 264, 2592 BM Den Haag, Netherlands",0.7
+"A63 VE20, Greystones, Ireland","1a Church Road, Greystones, Wicklow A63 NX92, Ireland",0.7
+"9451, KERKSKEN, Belgium","Kerkskendorp 19, 9451 Haaltert, East Flanders, Belgium",0.7
+"Fabrik 6, 6383 Erpfendorf Austria","Fabrik 6, 6383 Kirchdorf in Tirol, Austria",0.7
+"INDUSTRIEPARK DRONGEN- POORT 9 14, 9031 DRONGEN Belgium","Industriepark-Drongen 14, 9031 Gent, East Flanders, Belgium",0.7
+"C/ STA.GEMA, 53, 50007 Zaragoza Spain","Paseo Del Canal 17, 50007 Zaragoza, Zaragoza, Spain",0.7
+"EN1 1DT, Enfield, United Kingdom","45 St Mark's Road, Enfield, EN1 1BG, United Kingdom",0.7
+"3723BV, BILTHOVEN, Netherlands","Soestdijkseweg Noord 303, 3723 HA Bilthoven, Netherlands",0.7
+"4281 JJ, Andel, Netherlands","Kroonsappel 2, 4281 JJ Andel, Netherlands",0.7
+"2651 RX, Berkel En Rodenrijs, Netherlands","Smaragd 77, 2651 RX Berkel en Rodenrijs, Netherlands",0.7
+"Belgium,Tubize,1480","Rue De Mons 1, 1480 Tubize, Walloon Brabant, Belgium",0.7
+"3911 BD, Rhenen, Netherlands","Levendaalseweg 14, 3911 BD Rhenen, Netherlands",0.7
+"2930, Brasschaat, Belgium","Bredabaan 262, 2930 Brasschaat, Antwerp, Belgium",0.7
+"3774 BP, Kootwijkerbroek, Netherlands","Veluweweg 154, 3774 BP Kootwijkerbroek, Netherlands",0.7
+"6133 BC, Sittard, Netherlands","Beatrixlaan 42, 6133 BC Sittard, Netherlands",0.7
+"2804 PJ, Gouda, Netherlands","Waterruit 154, 2804 PJ Gouda, Netherlands",0.7
+"2408 MC, Alphen aan Den Rijn, Netherlands","Braziliëstraat 17, 2408 MC Alphen aan den Rijn, Netherlands",0.7
+"4871 BS, Etten-Leur, Netherlands","Buitenhof 11, 4871 BS Etten-Leur, Netherlands",0.7
+"The Netherlands,Overveen,2051 HN","Oranje Nassaulaan 171, 2051 HN Overveen, Netherlands",0.7
+"5103 PB, Dongen, Netherlands","Simon Vestdijkstraat 14, 5103 PB Dongen, Netherlands",0.7
+"The Netherlands,Amsterdam,1094 KD","Eerste Atjehstraat 77-2, 1094 KD Amsterdam, Netherlands",0.7
+"4614 GL, Bergen Op Zoom, Netherlands","Melanendreef 148, 4614 GL Bergen op Zoom, Netherlands",0.7
+"United Kingdom,Thatcham,RG19 8FH","5 Harrow Drive, Headley, Thatcham, RG19 8FH, United Kingdom",0.7
+"Grote Voort 24714e verdie, 8041BL Zwolle Netherlands","Grote Voort, 8041 BK Zwolle, Netherlands",0.7
+"Germany,Ransbach-Baumbach,56235","Rheinstraße 60, 56235 Ransbach-Baumbach, Germany",0.7
+"1079 EA, Amsterdam, Netherlands","Waalstraat 86-1, 1079 EB Amsterdam, Netherlands",0.75
+Emmasingel 52A2 6001BD WEERT NL,"Emmasingel, 6001 BC Weert, Netherlands",0.75
+"1239, Collex-Bossy, Switzerland","Route De Vireloup 107, 1239 Collex, Switzerland",0.8
+Novara,"Novara, Novara, Italy",0.8
+"France,Wallers ,59135","25 Rue Marcel Danna, 59135 Wallers, France",0.8
+"United Kingdom,Ebbw Vale,NP23 4NB","19 Chapel Road, Nantyglo, Ebbw Vale, NP23 4NB, United Kingdom",0.8
+"6151 GR, Munstergeleen, Netherlands","Schoutenstraat 57, 6151 GR Munstergeleen, Netherlands",0.8
+"Germany,Leinfelden-echterdingen,70771","Hauptstraße 78, 70771 Leinfelden-Echterdingen, Germany",0.8
+"Germany,Fürstenberg,16798","Brandenburger Straße 53, 16798 Fürstenberg, Germany",0.8
+"2251 GE, Voorschoten, Netherlands","Raadhuislaan 140, 2251 GE Voorschoten, Netherlands",0.8
+"2628 VL, Delft, Netherlands","Koningin Emmalaan 21, 2628 VL Delft, Netherlands",0.8
+"79206, Breisach Am Rhein, Germany","Richard-Müller-Straße 3b, 79206 Breisach am Rhein, Germany",0.8
+"The Netherlands,Purmerend,1441 WN","Kweldergras 40, 1441 WN Purmerend, Netherlands",0.8
+"The Netherlands,Terheijden,4844 CV","Oranjeplein 3, 4844 CV Terheijden, Netherlands",0.8
+"United Kingdom,London,N19 3BE","21 Dresden Road, Islington, London, N19 3BE, United Kingdom",0.8
+"The Netherlands,Hazerswoude-Dorp,2391 NM","Loeteweg 34a, 2391 NM Hazerswoude-Dorp, Netherlands",0.8
+"7951 XE, Staphorst, Netherlands","Boekweitveld 24, 7951 XE Staphorst, Netherlands",0.8
+"Germany,Ostheim,97645","Marktstraße 28, 97645 Ostheim vor der Rhön, Germany",0.8
+"2061 LZ, Bloemendaal, Netherlands","Schaepmanlaan 18, 2061 LZ Bloemendaal, Netherlands",0.8
+"3641 VR, Mijdrecht, Netherlands","Korenbloem 90, 3641 VR Mijdrecht, Netherlands",0.8
+"Germany,Kernen,71394","Karlstraße 2, 71394 Kernen im Remstal, Germany",0.8
+"France,Pecquencourt,59146","2b Rue Du Beffroi, 59146 Pecquencourt, France",0.8
+"2391 PR, Hazerswoude-Dorp, Netherlands","Schotlandlaan 1, 2391 PR Hazerswoude-Dorp, Netherlands",0.8
+"1076 BM, Amsterdam, Netherlands","Stadionkade 100-1, 1076 BM Amsterdam, Netherlands",0.8
+"2564 LT, Den Haag, Netherlands","Kornoeljestraat 122, 2564 LT Den Haag, Netherlands",0.8
+"6176 CJ, Spaubeek, Netherlands","Klooterweg, 6176 CJ Spaubeek, Netherlands",0.8
+"The Netherlands,Aalsmeer,1431 EL","Stommeerkade 65, 1431 EL Aalsmeer, Netherlands",0.8
+"United Kingdom,Surrey,KT22 9UW","10 Meadow Lane, Fetcham, Leatherhead, KT22 9UW, United Kingdom",0.8
+"Schorner Strasse 1 A, Mitglied: die 682065 Baierbrunn Germany","Schorner Straße 1, 82065 Baierbrunn, Germany",0.8
+"Belgium,Bouwel,2288","Stationlei 10, 2288 Grobbendonk, Antwerp, Belgium",0.8
+"Av. Tres Cruces 44, 46014 Valencia Spain","Avinguda De Les Tres Creus 43, 46018 València, Valencia, Spain",0.8
+"De Boelelaan 78e etage, 1083 HJ Amsterdam Netherlands","De Boelelaan 32, 1083 HJ Amsterdam, Netherlands",0.8
+"torhoutstraat 16, Zwevezele Belgium","Torhoutstraat 16, 8750 Wingene, West Flanders, Belgium",0.8
+"1362 JD, Almere, Netherlands","Koperstraat 36, 1362 JB Almere, Netherlands",0.8
+"Fabriekstraat 25, 9120 Kallo Belgium","Fabriekstraat 25, 9120 Beveren, East Flanders, Belgium",0.8
+"The Netherlands,Nieuwleusen,7711BA","Burgemeester Backxlaan 107, 7711 AC Nieuwleusen, Netherlands",0.8
+"3755WT, EEMNES, Netherlands","Sleephark 16, 3755 WR Eemnes, Netherlands",0.8
+"The Netherlands,Amstelhoek,1427 AB","Piet Heinlaan 10, 1427 AC Amstelhoek, Netherlands",0.8
+"Pas 69A, 2440 Geel Belgium","Pas 79, 2440 Geel, Antwerp, Belgium",0.8
+"United Kingdom,St. Helens,WA9 3DR","157 Sutton Road, St. Helens, WA9 3DU, United Kingdom",0.8
+"4652, Steinerkirchen An Der Traun, Austria","Landstraße 10, 4652 Steinerkirchen an der Traun, Austria",0.8
+"3646 AN, Waverveen, Netherlands","Poelweg 2, 3646 AN Waverveen, Netherlands",0.8
+"The Netherlands,Tilburg,5037 CR","Abdij Van Egmondstraat 49, 5037 CR Tilburg, Netherlands",0.8
+"The Netherlands,Den Helder,1785 DN","Marina-Park 461, 1785 DN Den Helder, Netherlands",0.8
+"7442 JX, Nijverdal, Netherlands","Straussstraat 18, 7442 JX Nijverdal, Netherlands",0.8
+"2566 KA, Den Haag, Netherlands","Sportlaan 163, 2566 KA Den Haag, Netherlands",0.8
+"The Netherlands,Duiven,6922 GA","Weidekervel 39, 6922 GA Duiven, Netherlands",0.8
+"9001DJ, GROU, Netherlands","Brêgepaad 20, 9001 DJ Grou, Netherlands",0.8
+"1078 JR, Amsterdam, Netherlands","Diezestraat 20-1, 1078 JR Amsterdam, Netherlands",0.8
+"The Netherlands,Nieuw-Vennep,2152 HD","Bolwerksepoort 64, 2152 HD Nieuw-Vennep, Netherlands",0.8
+"E4 6BY, London, United Kingdom","7 Victoria Road, Waltham Forest, London, E4 6BY, United Kingdom",0.8
+"4031, Debrecen, Hungary","Debrecen, Tócóskert Tér 1, 4031, Hajdú-Bihar, Hungary",0.8
+"Austria,Piesendorf,5721","Dorfstraße 170, 5721 Piesendorf, Austria",0.8
+"5931 NJ, TEGELEN, Netherlands","Beijtelstraat 3, 5931 NJ Tegelen, Netherlands",0.8
+"7414 CV, Deventer, Netherlands","Brikskamp 1, 7414 CV Deventer, Netherlands",0.8
+"The Netherlands,Tilburg,5049 NP","Verdiplein 92, 5049 NP Tilburg, Netherlands",0.8
+"Germany,Puschwitz,2699","Puschwitz, Kreis Bautzen, Saxony, Germany",0.8
+"3523 GK, Utrecht, Netherlands","Turkooislaan 31a, 3523 GK Utrecht, Netherlands",0.8
+"5223 LP, 'S Hertogenbosch, Netherlands","Residentieplein 31, 5223 LP 's-Hertogenbosch, Netherlands",0.8
+"France,LES DEUX ALPES,38860","192 Rue De L'alpe, 38860 Les Deux Alpes, France",0.8
+"BS8 2BA, BRISTOL, United Kingdom","55 Oakfield Road, Bristol, BS8 2BA, United Kingdom",0.8
+"SE15 3DZ, LONDON, United Kingdom","297 Ivydale Road, Southwark, London, SE15 3DZ, United Kingdom",0.8
+"SY8 1NH, Ludlow, United Kingdom","55 Broad Street, Ludlow, SY8 1NH, United Kingdom",0.8
+"United Kingdom,Milton Keynes,MK4 4NH","5 Hever Close, Milton Keynes, MK4 4NH, United Kingdom",0.8
+"Ertbrugstraat 22, 9260, Schellebelle, BE","Ertbrugstraat 22, 9260 Wichelen, East Flanders, Belgium",0.8
+"3601 JM, Maarssen, Netherlands","Donkerelaan 1, 3601 JN Maarssen, Netherlands",0.8
+"6166, fulpmes, Austria","Fulpmes, Tyrol, Austria",0.8
+"Bennekomseweg 41, 6711 LL Ede Netherlands","Bennekomseweg 41, 6717 LL Ede, Netherlands",0.8
+"SW1V 2RG, London, United Kingdom","144 Vauxhall Bridge Road, Westminster, London, SW1V 2RF, United Kingdom",0.85
+"TS22 5RA, Billingham, United Kingdom","10 Snowdrop Avenue, Wynyard Village, Billingham, TS22 5RA, United Kingdom",0.85
+"Germany,Bad honnef,53604","Bad Honnef, Rhein-Sieg-Kreis, North Rhine-Westphalia, Germany",0.85
+"3731 HR, De Bilt, Netherlands","Waterweg 152, 3731 HR De Bilt, Netherlands",0.85
+"7783 GL, Gramsbergen, Netherlands","Van Der Esestraat 4, 7783 GL Gramsbergen, Netherlands",0.85
+"2954 BH, Alblasserdam, Netherlands","Zeelt 45, 2954 BH Alblasserdam, Netherlands",0.85
+"The Netherlands,DRACHTEN,9205 ES","Grasland 51, 9205 ES Drachten, Netherlands",0.85
+"The Netherlands,Nieuwpoort,2965AH","Heulkamp 8, 2965 AH Nieuwpoort, Netherlands",0.85
+"5711 BT, Someren, Netherlands","Loostreeplaan 1, 5711 BT Someren, Netherlands",0.85
+"2421 BM, Nieuwkoop, Netherlands","Wilgenlaan 5, 2421 BM Nieuwkoop, Netherlands",0.85
+"2275 EK, Voorburg, Netherlands","Paradijsstraat 25, 2275 EK Voorburg, Netherlands",0.85
+"The Netherlands,Uden,5403WP","Bermershof 801, 5403 WP Uden, Netherlands",0.85
+"Rua Coronel Melo Antunes (Massamá) Lote 615º A, 2745-871 Queluz Portugal","Rua Coronel Melo Antunes, 2745-871 Queluz, Lisbon, Portugal",0.85
+"VIA SAN PASQUALE 23, 89022 CITTANOVA Italy","Via San Pasquale 37, 89022 Cittanova Reggio Calabria, Italy",0.85
+"6641 WN, Beuningen, Netherlands","Gaard 19, 6641 WN Beuningen Gld, Netherlands",0.85
+"6584AN, MOLENHOEK, Netherlands","Hertogstraat 7, 6584 AN Molenhoek, Netherlands",0.85
+"The Netherlands,Zeewolde,3891 EL","Molenrak 12, 3891 EL Zeewolde, Netherlands",0.85
+"Hammestraat 84, 9220, Moerzeke, BE","Hammestraat 84, 9220 Hamme, East Flanders, Belgium",0.85
+"3417 HS, Montfoort, Netherlands","De Bongerd 1a, 3417 HT Montfoort, Netherlands",0.85
+"The Netherlands,Nieuwe Pekela,9663 GE","Dennenlaan 30, 9663 EN Nieuwe Pekela, Netherlands",0.85
+"Wiekevorstseweg 14, 2200 Morkhoven Belgium","Wiekevorstseweg 14, 2200 Herentals, Antwerp, Belgium",0.85
+"The Netherlands,Heiloo,1852 WL","Vredenoord 142, 1852 WL Heiloo, Netherlands",0.85
+"Angelholm, 262 78, Sweden","Produktionsvägen 10, 262 78 Ängelholm, Sweden",0.85
+"LE14 3SP, Melton Mowbray, United Kingdom","20 Valley Road, Asfordby, Melton Mowbray, LE14 3SP, United Kingdom",0.85
+"The Netherlands,Eindhoven,5611 HW","Emmasingel 37, 5611 AZ Eindhoven, Netherlands",0.85
+"The Netherlands,Katwijk,2225 AH","Buitensluisstraat 15, 2225 AH Katwijk, Netherlands",0.85
+"Guldenvliesstraat 2, 2600, Berchem, BE","Guldenvliesstraat 2, 2600 Antwerpen, Antwerp, Belgium",0.85
+"De Oanrin 33, Goutum Netherlands","De Oanrin 33, 8941 DJ Leeuwarden, Netherlands",0.85
+"Belgium,Outgaarden,3321","Sint-Rochusstraat 14, 3321 Hoegaarden, Flemish Brabant, Belgium",0.85
+"1019 NJ, Amsterdam, Netherlands","Venetiëstraat 70, 1019 NJ Amsterdam, Netherlands",0.85
+"5121 MR, Rijen, Netherlands","Atalanta 15, 5121 MR Rijen, Netherlands",0.85
+"5406 BZ, Uden, Netherlands","Statendaalder 2, 5406 BZ Uden, Netherlands",0.85
+"The Netherlands,Leiden,2312 KB","Nieuwstraat 8c, 2312 KB Leiden, Netherlands",0.85
+"3341 LL, Hendrik Ido Ambacht, Netherlands","Veersedijk 111, 3341 LL Hendrik-Ido-Ambacht, Netherlands",0.85
+"1071 EA, Amsterdam, Netherlands","Gabriël Metsustraat 8, 1071 EA Amsterdam, Netherlands",0.85
+"6541 TK, Nijmegen, Netherlands","Waterstraat 28, 6541 TK Nijmegen, Netherlands",0.85
+"United Kingdom,Gillingham kent,ME8 0AN","77 Marshall Road, Gillingham, ME8 0AN, United Kingdom",0.85
+"United Kingdom,Ware,SG12 8LL","11 Cresset Close, St Margarets, Ware, SG12 8LL, United Kingdom",0.85
+"The Netherlands,Erica,7887EP","Verlengde Vaart Zuidzijde 79c, 7887 EP Erica, Netherlands",0.85
+"9461 BT, Gieten, Netherlands","Julianalaan 8, 9461 BT Gieten, Netherlands",0.85
+"3024 EE, Rotterdam, Netherlands","Schiehavenweg, 3024 EE Rotterdam, Netherlands",0.85
+"7202 AP, Zutphen, Netherlands","Groote Bolwerk 68, 7202 AP Zutphen, Netherlands",0.85
+"France,AUBIERE,63170","1 Rue Des Ramacles, 63170 Aubière, France",0.85
+"The Netherlands,Amsterdam,1082MK","Gustav Mahlerlaan 149, 1082 MK Amsterdam, Netherlands",0.85
+"The Netherlands,Maasland,3155 GA","Dijkgraaf 12, 3155 GA Maasland, Netherlands",0.85
+"The Netherlands,Amsterdam,1058 VG","Paramaribostraat 43-1, 1058 VG Amsterdam, Netherlands",0.85
+"The Netherlands,Haarlem,2014 EA","Snelliusstraat 34, 2014 EA Haarlem, Netherlands",0.85
+"4726 TB, Heerle, Netherlands","Zoomvlietweg 22, 4726 TB Heerle, Netherlands",0.85
+"3701 HX, Zeist, Netherlands","Montaubanstraat 88, 3701 HX Zeist, Netherlands",0.85
+"The Netherlands,Apeldoorn,7316 ND","De Jagershuizen 2, 7316 ND Apeldoorn, Netherlands",0.85
+"The Netherlands,Santpoort-Zuid,2082 HR","Papenburghlaan 8, 2082 HR Santpoort-Zuid, Netherlands",0.85
+"7908 MK, Hoogeveen, Netherlands","Klaverkamp 39, 7908 MK Hoogeveen, Netherlands",0.9
+"1075 XX, Amsterdam, Netherlands","Amstelveenseweg 290-1, 1075 XX Amsterdam, Netherlands",0.9
+"1943 DH, Beverwijk, Netherlands","Noorderwijkweg 45, 1943 DH Beverwijk, Netherlands",0.9
+"The Netherlands,Den Haag,2555SC","Elisabeth Brugsmaweg 1-707, 2555 SC Den Haag, Netherlands",0.9
+"24539, Neumünster, Germany","Segeberger Straße 58, 24539 Neumünster, Germany",0.9
+"6374 AV, Landgraaf, Netherlands","Begijnhofstraat 19, 6374 AV Landgraaf, Netherlands",0.9
+"73527, SchwÃ¤bisch GmÃ¼nd, Germany","Brainkofer Straße 16, 73527 Schwäbisch Gmünd, Germany",0.9
+"2922 VA, Krimpen aan den IJssel, Netherlands","Baljuwstraat 1, 2922 VA Krimpen aan den IJssel, Netherlands",0.9
+"5431 TH, Cuijk, Netherlands","Irenestraat 14, 5431 TH Cuijk, Netherlands",0.9
+"The Netherlands,Rotterdam,3051 KH","Erasmussingel 48a, 3051 KH Rotterdam, Netherlands",0.9
+"6531 ZP, Nijmegen, Netherlands","Graafseweg 159, 6531 ZP Nijmegen, Netherlands",0.9
+"Germany,Norderstedt,22844","Alter Kirchenweg 41, 22844 Norderstedt, Germany",0.9
+"7731 ZL, Ommen, Netherlands","Danteweg, 7731 ZL Ommen, Netherlands",0.9
+"The Netherlands,Sittard,6132 HC","Wassenbergstraat 10, 6132 HC Sittard, Netherlands",0.9
+"Christiane Vulpiusstr. 11, 60437 Frankfurt Germany","Christiane-Vulpius-Straße 11, 60438 Frankfurt am Main, Germany",0.9
+"Rue Clarisse 35, 7301 Hornu Belgium","Rue Clarisse 35, 7301 Boussu, Hainaut, Belgium",0.9
+"Van Ruisdaelstraat 1, Zwijndrecht  Netherlands","Van Ruisdaelstraat 1a, 3331 CT Zwijndrecht, Netherlands",0.9
+"Austria,Grünau im Almtal,4645","L549, 4645 Grünau im Almtal, Austria",0.9
+"Meidoornplein 17, Amsterdam Netherlands","Meidoornplein 17b, 1031 GA Amsterdam, Netherlands",0.9
+"Stationsstraat 92, 3191 Hever Belgium","Stationsstraat 92, 3191 Boortmeerbeek, Flemish Brabant, Belgium",0.9
+"7072, MÃ¶rbisch, Austria","Hauptstraße 1, 7072 Mörbisch am See, Austria",0.9
+"3371 PC, Hardinxveld Giessendam, Netherlands","Wieling 95, 3371 PC Hardinxveld-Giessendam, Netherlands",0.9
+"5247 HP, Rosmalen, Netherlands","Goudveilstraat 29, 5247 HP Rosmalen, Netherlands",0.9
+"Italy,Cesena,47521","Via Righi 1, 47521 Cesena Forlì-Cesena, Italy",0.9
+"8152 BE, Lemelerveld, Netherlands","Ommerweg, 8152 BE Lemelerveld, Netherlands",0.9
+"ST5 6TA, NEWCASTLE, United Kingdom","47 Sutton Avenue, Newcastle-under-Lyme, Newcastle, ST5 6TA, United Kingdom",0.9
+"Prinses Irenestraat 5, Assen Netherlands","Prinses Irenestraat 5a, 9401 HH Assen, Netherlands",0.9
+"Chemin du Rénowelz 49, 7812 Mainvault Belgium","Chemin Du Rénowelz 49, 7812 Ath, Hainaut, Belgium",0.9
+"Van Luppenstraat 55, Antwerpen Belgium","Van Luppenstraat 59, 2018 Antwerpen, Antwerp, Belgium",0.9
+"France,St Denis En Val,45560","Saint-Denis-en-Val, Loiret, France",0.9
+"Geert Groteplein 8 , Alkmaar Netherlands","Geert Groteplein 7, 1813 BM Alkmaar, Netherlands",0.9
+"Oostoever 5, ROELOFARENDSVEEN Netherlands","Oostoever 5, 2371 JB Roelofarendsveen, Netherlands",0.9
+"Paalbergweg 2-4, 1105 AG Amsterdam Netherlands","Paalbergweg 2, 1105 AG Amsterdam, Netherlands",0.9
+"France,PETITE FORET,59494","2 Rue Lénine, 59494 Petite-Forêt, France",0.92
+"4651 JD, Steenbergen nb, Netherlands","Gageldonk 14, 4651 JD Steenbergen, Netherlands",0.92
+"Groeneweg 46, 3001, Heverlee, BE","Groeneweg 46, 3001 Leuven, Flemish Brabant, Belgium",0.93
+"Germany,Seevetal,21220","Horster Landstraße 117, 21220 Seevetal, Germany",0.93
+"Germany,Koblenz,56068","Hohenzollernstraße 11, 56068 Koblenz, Germany",0.93
+"VIA LUCCHESE 19/B, 50019 SESTO FIORENTINO Italy","Via Lucchese 19, 50019 Sesto Fiorentino Florence, Italy",0.95
+"Kanaaldijk 8, Giethoorn  Netherlands","Kanaaldijk 8, 8355 VH Giethoorn, Netherlands",0.95
+"Swammerdamsingel 45, Schiedam Netherlands","Swammerdamsingel 45, 3112 RH Schiedam, Netherlands",0.95
+Molenstraat 27  PBA 8326CV SINT JANSKLOOSTER NL,"Molenstraat 27, 8326 CV Sint Jansklooster, Netherlands",0.95
+"Marsstraat 39 39, Haarlem Netherlands","Marsstraat 39, 2024 GA Haarlem, Netherlands",0.95
+Dr. Welfferweg 35 A 3615AL WESTBROEK NL,"Doctor Welfferweg 35, 3615 AL Westbroek, Netherlands",0.95
+"United Kingdom,Whitfield,CT16 3HL","27 Lenacre Lane, Whitfield, Dover, CT16 3HL, United Kingdom",0.95
+"5694 AH, Son en Breugel, Netherlands","Pieter Brueghelplein 5, 5694 AH Son en Breugel, Netherlands",0.95
+"1405 AR, Bussum, Netherlands","Laan Van Suchtelen Van De Haare 19, 1405 AR Bussum, Netherlands",0.95
+"The Netherlands,Gouda,2803 XK","Jan Mayenlaan 5, 2803 XK Gouda, Netherlands",0.95
+"5017 DX, Tilburg, Netherlands","Kempenaarplaats 72, 5017 DX Tilburg, Netherlands",0.95
+"6245 TM, EIJSDEN, Netherlands","Muurbloem 5, 6245 TM Eijsden, Netherlands",0.95
+"EX15 1DB, CULLOMPTON, United Kingdom","8 Queen Square, Cullompton, EX15 1DB, United Kingdom",0.95
+"8916 ER, Leeuwarden, Netherlands","Bachstraat 19, 8916 ER Leeuwarden, Netherlands",0.95
+"3224 RA, Hellevoetsluis, Netherlands","Abeel 9, 3224 RA Hellevoetsluis, Netherlands",0.95
+"7054AK, WESTENDORP, Netherlands","Kersendijk 2, 7054 AK Westendorp, Netherlands",0.95
+"3209 BW, Hekelingen, Netherlands","Petrus Steyaertlaan 9, 3209 BW Hekelingen, Netherlands",0.95
+"The Netherlands,Andijk,1619 XD","Beatrixstraat 7, 1619 XD Andijk, Netherlands",0.95
+"2341 SE, Oegstgeest, Netherlands","Hazenboslaan 17, 2341 SE Oegstgeest, Netherlands",0.95
+"The Netherlands,Hoorn,1623RZ","Schoutenstraat 72, 1623 RZ Hoorn, Netherlands",0.95
+"1187 DA, Amstelveen, Netherlands","Jane Addamslaan 67, 1187 DA Amstelveen, Netherlands",0.95
+"The Netherlands,Emmeloord,8303 ML","Middelplaat 62, 8303 ML Emmeloord, Netherlands",0.95
+"United Kingdom,Southsea,PO4 8TW","7 St. James Place, Southsea, PO4 8TW, United Kingdom",0.95
+"United Kingdom,Godalming ,GU7 3SN","14 Green Lane, Farncombe, Godalming, GU7 3SN, United Kingdom",0.95
+"5761 HM, Bakel, Netherlands","Groenveld 6, 5761 HM Bakel, Netherlands",0.95
+"Botterkoel 10, Ulft Netherlands","Botterkoel 10, 7071 SB Ulft, Netherlands",0.95
+"1788 ED, Julianadorp, Netherlands","Middelzand 3201, 1788 ED Julianadorp, Netherlands",0.95
+"The Netherlands,Franeker,8801 VS","Vliet 98, 8801 VS Franeker, Netherlands",0.95
+"6131 GD, Sittard, Netherlands","Haspelsestraat 54, 6131 GD Sittard, Netherlands",0.95
+"4281 JB, Andel, Netherlands","Bellefleur 49, 4281 JB Andel, Netherlands",0.95
+"94250, Achslach, Germany","Hauptstraße 5, 94250 Achslach, Germany",0.95
+"Germany,Filderstadt,70794","Bernhäuser Hauptstraße 17, 70794 Filderstadt, Germany",0.95
+"49456, Bakum, Germany","Kirchstraße 13, 49456 Bakum, Germany",0.95
+"3467 PR, Hekendorp, Netherlands","Goejanverwelle 70, 3467 PR Hekendorp, Netherlands",0.95
+"Germany,Bochum,44797","Kemnader Straße 297, 44797 Bochum, Germany",0.95
+"2023 LC, Haarlem, Netherlands","Delftlaan 79, 2023 LC Haarlem, Netherlands",0.95
+"United Kingdom,Tonyrefail,CF39 8AH","38 Tylcha Wen Terrace, Tonyrefail, Porth, CF39 8AH, United Kingdom",0.95
+"The Netherlands,Heerhugowaard,1705 KS","Zuidwijkring 182, 1705 KS Heerhugowaard, Netherlands",0.95
+"5057 DM, Berkel-Enschot, Netherlands","Koningsoordlaan 232, 5057 DM Berkel-Enschot, Netherlands",0.95
+"The Netherlands,Utrecht,3533 VB","Dantelaan 73, 3533 VB Utrecht, Netherlands",0.95
+"90455, Nürnberg, Germany","An Der Radrunde 169, 90455 Nürnberg, Germany",0.95
+"9351 WL, Leek, Netherlands","Lenteklokje 4, 9351 WL Leek, Netherlands",0.95
+"The Netherlands,Wormer,1531 PE","Blokmaalder 13, 1531 PE Wormer, Netherlands",0.95
+"Venkelhof 106, OOSTERHOUT NB Netherlands","Venkelhof 106, 4907 HM Oosterhout, Netherlands",0.95
+"6466 HM, Kerkrade, Netherlands","Akerstraat 110, 6466 HM Kerkrade, Netherlands",0.95
+"1272 GC, Huizen, Netherlands","Groen Van Prinstererlaan 30, 1272 GC Huizen, Netherlands",0.95
+"Austria,St. Andrä im Lungau,5572","St. Andrä 22, 5572 Sankt Andrä im Lungau, Austria",0.95
+"Germany,Büdingen,63654","Marktplatz 9, 63654 Büdingen, Germany",0.95
+"1066 TA, Amsterdam, Netherlands","Kortrijk 69, 1066 TA Amsterdam, Netherlands",0.95
+"United Kingdom,Bembridge,PO35 5QU","75 Howgate Road, Bembridge, PO35 5QU, United Kingdom",0.95
+"9204 HN, Drachten, Netherlands","Fluessen 36, 9204 HN Drachten, Netherlands",0.95
+"5211 SE, 'S Hertogenbosch, Netherlands","Zuid Willemsvaart 115, 5211 SE 's-Hertogenbosch, Netherlands",0.95
+"The Netherlands,Voorschoten,2251 AZ","Roucooppark 46, 2251 AZ Voorschoten, Netherlands",0.95
+"The Netherlands,Ureterp,9247GV","Lege Kamp 20, 9247 GV Ureterp, Netherlands",0.95
+"The Netherlands,Leiden,2334 CP","Vennemeerstraat 22, 2334 CP Leiden, Netherlands",0.95
+"The Netherlands,Tilburg,5032XZ","Weteringlaan 179, 5032 XZ Tilburg, Netherlands",0.95
+"8017 AR, Zwolle, Netherlands","Van Laersweg 30, 8017 AR Zwolle, Netherlands",0.95
+"4817 GZ, Breda, Netherlands","Molenslag 45, 4817 GZ Breda, Netherlands",0.95
+"3067 JW, Rotterdam, Netherlands","Voermanweg 244, 3067 JW Rotterdam, Netherlands",0.95
+"The Netherlands,Veenendaal,3907 HH","Waterlelie 11, 3907 HH Veenendaal, Netherlands",0.95
+"The Netherlands,RAAMSDONKSVEER,4941 RZ","Spoordijk 10, 4941 RZ Raamsdonksveer, Netherlands",0.95
+"Via Due Aie presso B&B Diciannove 58, 73048 NARDO', Lecce Italy","Via Due Aie, 73048 Nardò Lecce, Italy",0.95
+"The Netherlands,Tilburg,5025 MT","Diepenstraat 74b, 5025 MT Tilburg, Netherlands",0.95
+"8131 DL, Wijhe, Netherlands","Wijhezicht 2, 8131 DL Wijhe, Netherlands",0.95
+"The Netherlands,Veen,4264 AT","Wielstraat 39, 4264 AT Veen, Netherlands",0.95
+"1734 JJ, Oude Niedorp, Netherlands","Dorpsstraat 39, 1734 JJ Oude Niedorp, Netherlands",0.95
+Prinses Marijkeweg 44 B 4231BS MEERKERK NL,"Prinses Marijkeweg 44, 4231 BS Meerkerk, Netherlands",0.95
+"Germany,Rudelzhausen,84104","Rudelzhausen, Kreis Freising, Bavaria, Germany",0.95
+"25779, Hennstedt, Germany","Kirchenstraße 10, 25779 Hennstedt, Germany",0.95
+"The Netherlands,Edam,1135HA","Persijnstraat 25, 1135 HA Edam, Netherlands",0.95
+"Germany,Görlitz,2826","Görlitz, Kreis Görlitz, Saxony, Germany",0.95
+"United Kingdom,Normanton,WF6 2LB","18 Altofts Lodge Drive, Normanton, WF6 2LB, United Kingdom",0.95
+"Rue Auguste Donnay 21, Liege Belgium","Rue Auguste Donnay 21, 4130 Esneux, Liege, Belgium",0.95
+"The Netherlands,Franeker,8802 XT","C F Engelhardstraat 1, 8802 XT Franeker, Netherlands",0.95
+"United Kingdom,Caerphilly,CF83 3AB","38 Pontygwindy Road, Caerphilly, CF83 3AB, United Kingdom",0.95
+"1336 CV, Almere, Netherlands","Mazureplantsoen 18, 1336 CV Almere, Netherlands",0.95
+"United Kingdom,Beaconsfield,HP9 1TX","2 Walkwood Rise, Beaconsfield, HP9 1TX, United Kingdom",0.95
+"5506 CX, Veldhoven, Netherlands","De Schaatsenmaker 23, 5506 CX Veldhoven, Netherlands",0.95
+"Nieuwpoortsesteenweg 636, 8400 Oostende Belgium","Nieuwpoortsesteenweg 634, 8400 Oostende, West Flanders, Belgium",0.95
+"Madurastraat 26, AMSTERDAM Netherlands","Madurastraat 26-2, 1094 GM Amsterdam, Netherlands",0.95
+"VIA IV NOVEMBRE 108, 74028 SAVA Italy","Via Quattro Novembre 108, 74028 Sava Taranto, Italy",0.95
+Anna van Meertenstraat 12 K023 2804TL Gouda NL,"Anna Van Meertenstraat 12, 2804 TL Gouda, Netherlands",0.95
+"Ovidius 4, NOORDWIJKERHOUT Netherlands","Ovidius 4, 2211 WW Noordwijkerhout, Netherlands",0.95
+"Papenstraat 13, OOTMARSUM Netherlands","Papenstraat 13, 7631 AR Ootmarsum, Netherlands",0.95
+"Dokter Albert Plesmanloane 25, Feanw&acirc;lden Netherlands","Dr. Albert Plesmanloane 25, 9269 PH Feanwâlden, Netherlands",0.95
+"Chaussée de Forest 63, 1060 Saint-Gilles Belgium","Chaussée De Forest - Vorstse Steenweg 63, 1060 Saint-Gilles, Brussels-Capital, Belgium",0.95
+"Molenborre 28/2, 1500 Halle Belgium","Molenborre 28, 1500 Halle, Flemish Brabant, Belgium",0.95
+"Purmerdijk M 3, 1482 AL Purmer Netherlands","Purmerdijk 3, 1482 AL Purmer, Netherlands",0.95
+"Via di Pratale 18 a, 56127 Pisa Italy","Via Di Pratale 18, 56127 Pisa Pisa, Italy",0.96
+Heuvelkouterweg 4 BUS2 1770 Liedekerke BE,"Heuvelkouterweg 4, 1770 Liedekerke, Flemish Brabant, Belgium",0.96
+"Burg van Heusdenweg 14, WEST-TERSCHELLING Netherlands","Burgemeester Van Heusdenweg 14, 8881 EC West-Terschelling, Netherlands",0.97
+"Oosteinderweg 302, AALSMEER Netherlands","Oosteinderweg 302, 1432 BD Aalsmeer, Netherlands",0.98
+"Jacobsberg 10, HALSTEREN Netherlands","Jacobsberg 10, 4661 NL Halsteren, Netherlands",0.98
+"France,Bourron-Marlotte,77780","Bourron-Marlotte, Seine-et-Marne, France",0.98
+"Drierivierenlaan 343, RIDDERKERK Netherlands","Drierivierenlaan 343, 2983 GW Ridderkerk, Netherlands",0.98
+"De Zoom 37, Woerden Netherlands","De Zoom 37, 3448 DG Woerden, Netherlands",0.98
+"Herentalsebaan 406, 2160 Wommelgem Belgium","Herentalsebaan 406, 2160 Wommelgem, Antwerp, Belgium",1
+"Königstraße 57, 90762 Fuerth Germany","Königstraße 57, 90762 Fürth, Germany",1
+"Rue Calixte Camelle 77, 33130 BEGLES France","77 Rue Calixte Camelle, 33130 Bègles, France",1
+Postkoets 25 3897AK ZEEWOLDE NL,"Postkoets 25, 3897 AK Zeewolde, Netherlands",1
+Calle Palermo2 28043 Madrid ES,"Calle De Palermo 2, 28043 Madrid, Madrid, Spain",1
+"Werler Str. 110, 59063 Hamm Germany","Werler Straße 110, 59063 Hamm, Germany",1
+Hazekamp 20 7203JA ZUTPHEN NL,"Hazekamp 20, 7203 JA Zutphen, Netherlands",1
+Joost van den Vondellaan 87 7412MP DEVENTER NL,"Joost Van Den Vondellaan 87, 7412 MP Deventer, Netherlands",1
+Roerkade 1 A 6041KZ Roermond NL,"Roerkade 1a, 6041 KZ Roermond, Netherlands",1
+"Schubertlaan 25, 4837CP, BREDA, NL","Schubertlaan 25, 4837 CP Breda, Netherlands",1
+Rue du Maïeur Andry 2 7080 Frameries BE,"Rue Du Maïeur Andry 2, 7080 Frameries, Hainaut, Belgium",1
+Duinbeek 48 2134VT HOOFDDORP NL,"Duinbeek 48, 2134 VT Hoofddorp, Netherlands",1
+"Blumentalstrasse 134 a, 47798 Krefeld Germany","Blumentalstraße 134, 47798 Krefeld, Germany",1
+"Avenida de los Toreros 19, 28978 Cubas de la Sagra Spain","Avenida De Los Toreros 19, 28978 Cubas de la Sagra, Madrid, Spain",1
+Achter de Heilige Geest 3 3811KE AMERSFOORT NL,"Achter De Heilige Geest 3, 3811 KE Amersfoort, Netherlands",1
+"Am Kreuzbichl 2, 87675, Rettenbach a.Auerberg, DE","Am Kreuzbichl 2, 87675 Rettenbach am Auerberg, Germany",1
+"Calle Panamá, 28  - Castellón -, 12200 Onda Spain","Carrer De Panamà 28, 12200 Onda, Castellón, Spain",1
+25 links ave 2214 Milperra AU,"25 Links Avenue, Milperra New South Wales 2214, Australia",1
+"Carl-Benz-Str. 1, 73095 Albershausen Germany","Carl-Benz-Straße 1, 73095 Albershausen, Germany",1
+Bettrather Straße 91 41063 Mönchengladbach DE,"Bettrather Straße 91, 41063 Mönchengladbach, Germany",1
+"Dorpsplein 26, 6311AN, RANSDAAL, NL","Dorpsplein 26, 6311 AN Ransdaal, Netherlands",1
+"Bredabaan 501, 2990, Wuustwezel, BE","Bredabaan 501, 2990 Wuustwezel, Antwerp, Belgium",1
+"Blekersweg 40, APELDOORN Netherlands","Blekersweg 40, 7312 GL Apeldoorn, Netherlands",1
+"Alan Turingstraat 18, Hasselt Belgium","Alan Turingstraat 18, 3500 Hasselt, Limburg, Belgium",1
+"Uitdammer Dorpsstraat 19, UITDAM Netherlands","Uitdammer Dorpsstraat 19, 1154 PS Uitdam, Netherlands",1
+"Aberlestr. 31, M&uuml;nchen Germany","Aberlestraße 31, 81371 München, Germany",1
+De Vrijheid 17 2421JZ NIEUWKOOP NL,"De Vrijheid 17, 2421 JZ Nieuwkoop, Netherlands",1
+Arnhemseweg 23 3832GH Leusden NL,"Arnhemseweg 23, 3832 GH Leusden, Netherlands",1
+"Nieuwstraat 107, 9340, Lede, BE","Nieuwstraat 107, 9340 Lede, East Flanders, Belgium",1
+"Geertshof 11, 4817BW, Breda, NL","Geertshof 11, 4817 BW Breda, Netherlands",1
+"'t Veldeke 2, 3040 Huldenberg Belgium","'t Veldeke 2, 3040 Huldenberg, Flemish Brabant, Belgium",1
+"Hauptstr. 12, 82395 Obersöchering Germany","Hauptstraße 12, 82395 Obersöchering, Germany",1
+Torenlaan 11 2103AC HEEMSTEDE NL,"Torenlaan 11, 2103 AC Heemstede, Netherlands",1
+Zadel 11 3833XH LEUSDEN NL,"Zadel 11, 3833 XH Leusden, Netherlands",1
+Jan van Eyckstraat 117 1318GD ALMERE NL,"Jan Van Eyckstraat 117, 1318 GD Almere, Netherlands",1
+Molenstraat 52 2018 Antwerpen BE,"Molenstraat 52, 2018 Antwerpen, Antwerp, Belgium",1
+"Lindenlaan 28, Uffelte Netherlands","Lindenlaan 28, 7975 AH Uffelte, Netherlands",1
+"Römerstr 10, 56357 Himmighofen Germany","Römerstraße 10, 56357 Himmighofen, Germany",1
+Oostelijke Handelskade 783 1019BW AMSTERDAM NL,"Oostelijke Handelskade 783, 1019 BW Amsterdam, Netherlands",1
+2e Hollandiastraat 18 8701WL BOLSWARD NL,"2e Hollandiastraat 18, 8701 WL Bolsward, Netherlands",1
+"Steiger 3, 9732BT, GRONINGEN, NL","Steiger 3, 9732 BT Groningen, Netherlands",1
+Westerplein 48 2651JM BERKEL EN RODENRIJS NL,"Westerplein 48, 2651 JM Berkel en Rodenrijs, Netherlands",1
+Hondsdraf 21 8219PW LELYSTAD NL,"Hondsdraf 21, 8219 PW Lelystad, Netherlands",1
+Zilverschoon 30 6922GV DUIVEN NL,"Zilverschoon 30, 6922 GV Duiven, Netherlands",1
+De Olmen 40 1974SJ IJMUIDEN NL,"De Olmen 40, 1974 SJ IJmuiden, Netherlands",1
+Kolonel Harrystraat 31 2660 Antwerpen BE,"Kolonel Harrystraat 31, 2660 Antwerpen, Antwerp, Belgium",1
+"In de Houtzaagmolen 78, DUIVENDRECHT Netherlands","In De Houtzaagmolen 78, 1115 GK Duivendrecht, Netherlands",1
+"Graslelie 48, 2224JV Katwijk Netherlands","Graslelie 48, 2224 JV Katwijk, Netherlands",1
+"Eeltsje Folkertsmawei 5G, 8915dw Leeuwarden Netherlands","Eeltsje Folkertsmawei 5g, 8915 DW Leeuwarden, Netherlands",1
+Muiderwaard 721 1824XR Alkmaar NL,"Muiderwaard 721, 1824 XR Alkmaar, Netherlands",1
+"280 RUE DE LA BELLE ETOILE -, 95700 ROISSY EN FRANCE France","280 Rue De La Belle Étoile, 95700 Roissy-en-France, France",1
+"rozenhof 35, 2650, Edegem, BE","Rozenhof 35, 2650 Edegem, Antwerp, Belgium",1
+"Driehoeven 11, Haaren Netherlands","Driehoeven 11, 5076 BA Haaren, Netherlands",1
+"Hauptsstr 62, 86391 Stadtbergen Germany","Hauptstraße 62, 86391 Stadtbergen, Germany",1
+"Hauptstrasse 13, 21442, Toppenstedt, DE","Hauptstraße 13, 21442 Toppenstedt, Germany",1
+"Saarbrückerstraße 37, 66822 Lebach Germany","Saarbrücker Straße 37, 66822 Lebach, Germany",1
+Heistershof 52 6065DD MONTFORT NL,"Heistershof 52, 6065 DD Montfort, Netherlands",1
+Uitweg 89 3481BC HARMELEN NL,"Uitweg 89, 3481 BC Harmelen, Netherlands",1
+"P. Engelvaartstraat 10, Spijkenisse Netherlands","P. Engelvaartstraat 10, 3201 KD Spijkenisse, Netherlands",1
+"5 Mei Plein 12, 6701DG, WAGENINGEN, NL","5 Mei Plein 12, 6701 DG Wageningen, Netherlands",1
+"Rostock 3, Barendrecht Netherlands","Rostock 3, 2993 LH Barendrecht, Netherlands",1
+"Van Poeljeweg 43, ROTTERDAM Netherlands","Van Poeljeweg 43, 3052 TM Rotterdam, Netherlands",1
+"Lekstraat 95, 2515 XB 'S-GRAVENHAGE Netherlands","Lekstraat 95, 2515 XB Den Haag, Netherlands",1
+"Fort Vurenhof 16, Weesp Netherlands","Fort Vurenhof 16, 1384 BG Weesp, Netherlands",1
+"C/ Rodriguez Marin, 71, 28016 Madrid Spain","Calle De Rodríguez Marín 71, 28016 Madrid, Madrid, Spain",1
+"Neckarstr. 155, 70190 Stuttgart Germany","Neckarstraße 155, 70190 Stuttgart, Germany",1
+"24 BLD DE STRASBOURG -, 31000 TOULOUSE France","24 Boulevard De Strasbourg, 31000 Toulouse, France",1
+Tolhuswei 38 8927AH Leeuwarden NL,"Tolhûswei 38, 8927 AH Leeuwarden, Netherlands",1
+"Grotestraat 285, 7441 GS, NIJVERDAL, NL","Grotestraat 285, 7441 GS Nijverdal, Netherlands",1
+"Saffierborch 2, ROSMALEN Netherlands","Saffierborch 2, 5241 LN Rosmalen, Netherlands",1
+"De Stuwdam 5, 3815 KM Amersfoort UT Netherlands","De Stuwdam 5, 3815 KM Amersfoort, Netherlands",1
+"Via Masetto Vecchio 3, 38055 Grigno Italy","Via Masetto Vecchio 3, 38055 Grigno Trentino, Italy",1
+"Fakkelgras 10, 3994ML Houten Netherlands","Fakkelgras 10, 3994 ML Houten, Netherlands",1
+"Grote Markt 2, 8370 Blankenberge Belgium","Grote Markt 2, 8370 Blankenberge, West Flanders, Belgium",1
+Hortensiastraat 8 6031VC Nederweert NL,"Hortensiastraat 8, 6031 VC Nederweert, Netherlands",1
+Stephensonlaan 62 1222NX Hilversum NL,"Stephensonlaan 62, 1222 NX Hilversum, Netherlands",1
+Cranenburgsestraat 164B 6562LV GROESBEEK NL,"Cranenburgsestraat 164b, 6562 LV Groesbeek, Netherlands",1
+"Kleine Noordstraat 40, Hooglede Belgium","Kleine Noordstraat 40, 8830 Hooglede, West Flanders, Belgium",1
+"Vaarlaars 50, 9080 Lochristi Belgium","Vaarlaars 50, 9080 Lochristi, East Flanders, Belgium",1
+"Garde-du-Corps-Str. 7, 34117 Kassel Germany","Garde-du-Corps-Straße 7, 34117 Kassel, Germany",1
+"Schans 85, VIJFHUIZEN Netherlands","Schans 85, 2141 MZ Vijfhuizen, Netherlands",1
+"Compagnie 55, Steenwijk Netherlands","Compagnie 55, 8333 DJ Steenwijk, Netherlands",1
+"De Fuik 1, WARMENHUIZEN Netherlands","De Fuik 1, 1749 XH Warmenhuizen, Netherlands",1
+"Echtzerstr. 1c, 52353 Dueren Germany","Echtzer Straße 1c, 52353 Düren, Germany",1
+"Weidelaan 33, HOEVELAKEN Netherlands","Weidelaan 33, 3871 PP Hoevelaken, Netherlands",1
+Prof. H. Bavinckstraat 76 3555GS UTRECHT NL,"Professor H. Bavinckstraat 76, 3555 GS Utrecht, Netherlands",1
+"ESPACE HENRY VALLEE 14, 69007 LYON France","14 Espace Henry Vallée, 69007 Lyon, France",1
+Aarweg 29 29 8071WV Nunspeet NL,"Aarweg 29, 8071 WV Nunspeet, Netherlands",1
+"Grasland 19, Barneveld Netherlands","Grasland 19, 3773 CB Barneveld, Netherlands",1
+Klepperman 146 2401GL ALPHEN AAN DEN RIJN NL,"Klepperman 146, 2401 GL Alphen aan den Rijn, Netherlands",1
+Hof van Portland 12 3162WJ RHOON NL,"Hof Van Portland 12, 3162 WJ Rhoon, Netherlands",1
+"Ludwigstr. 28, 82140 Olching Germany","Ludwigstraße 28, 82140 Olching, Germany",1
+"Laan 1940-1945 118, METEREN Netherlands","Laan 1940-1945 118, 4194 WR Meteren, Netherlands",1
+"Friedrich-Bergius-Ring 15, 97076 Wuerzburg Germany","Friedrich-Bergius-Ring 15, 97076 Würzburg, Germany",1
+"Uferstr. 3, 65366 Geisenheim Germany","Uferstraße 3, 65366 Geisenheim, Germany",1
+"Van Beuningenplein 148, Amsterdam Netherlands","Van Beuningenplein 148, 1051 VZ Amsterdam, Netherlands",1
+Van Broeckhuysenstraat 14 6511PH Nijmegen NL,"Van Broeckhuysenstraat 14, 6511 PH Nijmegen, Netherlands",1
+"Prins Constantijnlaan 2, WAALRE Netherlands","Prins Constantijnlaan 2, 5582 KJ Waalre, Netherlands",1
+"Smitsleane 14, RIJS Netherlands","Smitsleane 14, 8572 WD Rijs, Netherlands",1
+"Rijnland 32, SPAARNDAM Netherlands","Rijnland 32, 2064 SE Spaarndam, Netherlands",1
+"Gartenstrasse 15, 13088 Berlin Germany","Gartenstraße 15, 13088 Berlin, Germany",1
+"Hartenlustlaan 18, Bloemendaal Netherlands","Hartenlustlaan 18, 2061 HB Bloemendaal, Netherlands",1
+"Albrecht-Dürer-Str. 30, 55218 Ingelheim Germany","Albrecht-Dürer-Straße 30, 55218 Ingelheim am Rhein, Germany",1
+Dommelstraat 9 5662EL GELDROP NL,"Dommelstraat 9, 5662 EL Geldrop, Netherlands",1
+"Rue du Champ Morin 17, ZA La Gautraie Est35360 Montauban de Bretagne France","17 Rue Du Champ Morin, 35360 Montauban-de-Bretagne, France",1
+"Oude Zevenhuizerstraat 9, AMERSFOORT Netherlands","Oude Zevenhuizerstraat 9, 3824 KA Amersfoort, Netherlands",1
+"Rozemarijnstraat 13, BRIELLE Netherlands","Rozemarijnstraat 13, 3231 AL Brielle, Netherlands",1
+Bloemstraat 99 8096VN OLDEBROEK NL,"Bloemstraat 99, 8096 VN Oldebroek, Netherlands",1
+"Le-Mele-Str. 19, 61462 Königstein Germany","Le-Mêle-Straße 19, 61462 Königstein im Taunus, Germany",1
+"Minerva 33, 1-1, 08392 SANT ANDREU DE LLAVANERES Spain","Carrer De Minerva 33, 08392 Sant Andreu de Llavaneres, Barcelona, Spain",1
+"Weegbree 2, Hoogeveen Netherlands","Weegbree 2, 7909 HR Hoogeveen, Netherlands",1
+Ruiter 1 5712XP SOMEREN NL,"Ruiter 1, 5712 XP Someren, Netherlands",1
+"Binnenweg 18, MAARSSEN Netherlands","Binnenweg 18, 3604 AC Maarssen, Netherlands",1
+Asterlaan 13 2950 KAPELLEN BE,"Asterlaan 13, 2950 Kapellen, Antwerp, Belgium",1
+SCHWENSENS GATE14 0170 OSLO NO,"Schwensens Gate 14, 0170 Oslo, Norway",1
+"Zandstraat 143, 4614CD, Bergen Op Zoom, NL","Zandstraat 143, 4614 CD Bergen op Zoom, Netherlands",1
+"Julianalaan 59, ERMELO Netherlands","Julianalaan 59, 3851 RA Ermelo, Netherlands",1
+Burchtweg 2 1749CX WARMENHUIZEN NL,"Burchtweg 2, 1749 CX Warmenhuizen, Netherlands",1
+"Kennemermeer 27, 1976GK Ijmuiden Netherlands","Kennemermeer 27, 1976 GK IJmuiden, Netherlands",1
+Prins Willem-Alexanderstraat 25 3241TD MIDDELHARNIS NL,"Prins Willem-Alexanderstraat 25, 3241 TD Middelharnis, Netherlands",1
+Laagduurswoude 22 8423VN MAKKINGA NL,"Laagduurswoude 22, 8423 VN Makkinga, Netherlands",1
+"Butefjild 14, FEANWALDEN Netherlands","Bûtefjild 14, 9269 TV Feanwâlden, Netherlands",1
+De Zoom 10 6581DZ MALDEN NL,"De Zoom 10, 6581 DZ Malden, Netherlands",1
+Prinsengracht 407A 1016HM Amsterdam NL,"Prinsengracht 407a, 1016 HM Amsterdam, Netherlands",1
+"Energieweg 98017 BE, 8017 BE Zwolle Netherlands","Energieweg, 8017 BE Zwolle, Netherlands",1
+"Rue de l'Eglise-Saint-Pierre 47, 1090 Bruxelles Belgium","Rue De L'église Saint-Pierre - Sint-Pieterskerkstraat 47, 1090 Jette, Brussels-Capital, Belgium",1
+"Bahnhofstr. 3, 33014 Bad Driburg Germany","Bahnhofstraße 3, 33014 Bad Driburg, Germany",1
+"Burg Krijgsmangeerde 7, Raamsdonksveer Netherlands","Burgemeester Krijgsmangeerde 7, 4942 AV Raamsdonksveer, Netherlands",1
+"Industrieweg 41, 8304AC Emmeloord Netherlands","Industrieweg 41, 8304 AC Emmeloord, Netherlands",1
+"Bergse Maas 25, 2641 VV Pynacker Netherlands","Bergse Maas 25, 2641 VV Pijnacker, Netherlands",1
+"Pol. Ind. El Tempranar - C/ Abedul, 9, 28942 Fuenlabrada Spain","Calle Del Abedul 9, 28942 Fuenlabrada, Madrid, Spain",1
+"Witzheldener Str. 47, 51399 Burscheid Germany","Witzheldener Straße 47, 51399 Burscheid, Germany",1
+"36 rue saint barthelemy -, 31210 Montréjeau France","36 Rue Saint-Barthélémy, 31210 Montréjeau, France",1
+"Hoogstraat 36, 4251CM Werkendam Netherlands","Hoogstraat 36, 4251 CM Werkendam, Netherlands",1
+Rohnerstraat 9 8031EN ZWOLLE NL,"Röhnerstraat 9, 8031 EN Zwolle, Netherlands",1
+"Griend 18H, 8321MN Urk Netherlands","Griend 18h, 8321 MN Urk, Netherlands",1
+De Vischkom 15 3451KC VLEUTEN NL,"De Vischkom 15, 3451 KC Vleuten, Netherlands",1
+"rue Nelaton 7, 75015 Paris France","7 Rue Nélaton, 75015 Paris, France",1
+"Atjehstraat 71, LEIDEN Netherlands","Atjehstraat 71, 2315 CR Leiden, Netherlands",1
+"VIA TEVERE 35, 60025 LORETO Italy","Via Tevere 35, 60025 Loreto Ancona, Italy",1
+"Straatweg 116, 3621 BT Breukelen Ut Netherlands","Straatweg 116, 3621 BT Breukelen, Netherlands",1
+"Am Voßberg 7, 23758 Oldenburg i. H. Germany","Am Voßberg 7, 23758 Oldenburg in Holstein, Germany",1
+"Prins Hendrikstraat 1, WIJHE Netherlands","Prins Hendrikstraat 1, 8131 AC Wijhe, Netherlands",1
+"Admiraliteitskade 62, 3063ED Rotterdam Netherlands","Admiraliteitskade 62, 3063 ED Rotterdam, Netherlands",1
+"Wiener Strasse 14, 4481 Asten Austria","Wiener Straße 14, 4481 Asten, Austria",1
+"Wildenborch 43, 2261XJ, LEIDSCHENDAM, NL","Wildenborch 43, 2261 XJ Leidschendam, Netherlands",1
+Soomerlustplein 16 2275XM VOORBURG NL,"Soomerlustplein 16, 2275 XM Voorburg, Netherlands",1
+Willem Barentszweg 13J 1212BK Hilversum NL,"Willem Barentszweg 13j, 1212 BK Hilversum, Netherlands",1
+Koningin Elisabethlaan 29 9820 Merelbeke BE,"Koningin Elisabethlaan 29, 9820 Merelbeke, East Flanders, Belgium",1
+Gladiusstraat 40 6852SB HUISSEN NL,"Gladiusstraat 40, 6852 SB Huissen, Netherlands",1
+Astrastraat 15 1829JA OUDORP NL,"Astrastraat 15, 1829 JA Oudorp, Netherlands",1
+Burgemeester Molenaarstraat 58 3078VC ROTTERDAM NL,"Burgemeester Molenaarstraat 58, 3078 VC Rotterdam, Netherlands",1
+Grote Markt 28 8970 Poperinge BE,"Grote Markt 28, 8970 Poperinge, West Flanders, Belgium",1
+"Eckernforder Straße 212, 24119 Kronshagen Germany","Eckernförder Straße 212, 24119 Kronshagen, Germany",1
+De Beurs 55 3162WB Rhoon NL,"De Beurs 55, 3162 WB Rhoon, Netherlands",1
+"Zaagmuldersweg 2, 9713LH, GRONINGEN, NL","Zaagmuldersweg 2, 9713 LH Groningen, Netherlands",1
+"Kindergartenstr. 11, 97478 Knetzgau Germany","Kindergartenstraße 11, 97478 Knetzgau, Germany",1
+Burgemeester Schaepmanstraat 6 5571CV BERGEIJK NL,"Burgemeester Schaepmanstraat 6, 5571 CV Bergeijk, Netherlands",1
+"Karrepad 10, 9101JT, DOKKUM, NL","Karrepad 10, 9101 JT Dokkum, Netherlands",1
+"Julianaplein 13, 2211CH, Noordwijkerhout, NL","Julianaplein 13, 2211 CH Noordwijkerhout, Netherlands",1
+"Moundyk 2, 9051AH, STIENS, NL","Moundyk 2, 9051 AH Stiens, Netherlands",1
+"Beresteinseweg 96, 1217TL, HILVERSUM, NL","Beresteinseweg 96, 1217 TL Hilversum, Netherlands",1
+"VIA MENTORE MAGGINI 51, 00143 Roma Italy","Via Mentore Maggini 51, 00143 Roma Rome, Italy",1
+Overweerse polderdijk 32 1442AE PURMEREND NL,"Overweerse Polderdijk 32, 1442 AE Purmerend, Netherlands",1
+Dr. Schaepmanlaan 35 5142CP Waalwijk NL,"Doctor Schaepmanlaan 35, 5142 CP Waalwijk, Netherlands",1
+"Gytsjerksterhoeke 9, GYTSJERK Netherlands","Gytsjerksterhoeke 9, 9061 AX Gytsjerk, Netherlands",1
+Angerensestraat 20 6691GE GENDT NL,"Angerensestraat 20, 6691 GE Gendt, Netherlands",1
+"Nerts 1, &#039;S-GRAVENZANDE Netherlands","Nerts 1, 2693 EJ 's-Gravenzande, Netherlands",1
+Lisstraat 13 3202JG SPIJKENISSE NL,"Lisstraat 13, 3202 JG Spijkenisse, Netherlands",1
+"ROUTE DE MAUBEUGE 44, 59600 ELESMES France","44 Route De Maubeuge, 59600 Élesmes, France",1
+"Grotenbergestraat 164, 9620 Zottegem Belgium","Grotenbergestraat 164, 9620 Zottegem, East Flanders, Belgium",1
+"Wilhelm-Buck-Str. 2, 01097 Dresden Germany","Wilhelm-Buck-Straße 2, 01097 Dresden, Germany",1
+"Wiesenstrasse 32, ‹79585 Steinen Germany","Wiesenstraße 32, 79585 Steinen, Germany",1
+Rozenlaan 55 4401HE YERSEKE NL,"Rozenlaan 55, 4401 HE Yerseke, Netherlands",1
+Stadhouderslaan 13 3956TB Leersum NL,"Stadhouderslaan 13, 3956 TB Leersum, Netherlands",1
+"Bahhofstraße 3, 57290 Neunkirchen Germany","Bahnhofstraße 3, 57290 Neunkirchen, Germany",1
+"Amersfoortsestraatweg 91, BUSSUM Netherlands","Amersfoortsestraatweg 91, 1403 AP Bussum, Netherlands",1
+Oleanderweg 41 06122 Halle (Saale) DE,"Oleanderweg 41, 06122 Halle, Germany",1
