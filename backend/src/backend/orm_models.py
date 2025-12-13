@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, String, Float
 
-from database import Base
+from backend.database import Base
 
 class AddressORM(Base):
     __tablename__ = "addresses"
@@ -11,5 +11,5 @@ class AddressORM(Base):
     match_score = Column(Float, nullable=True)
 
     def to_pydantic(self):
-        from models import Address
+        from src.backend.models import Address
         return Address(id=self.id, address=self.address, matched_address=self.matched_address, match_score=self.match_score)

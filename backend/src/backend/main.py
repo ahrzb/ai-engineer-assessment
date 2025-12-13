@@ -5,11 +5,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from orm_models import AddressORM
-from database import Base, engine, SessionLocal
-from models import Address, AddressCreate, AddressesRefresh, AddressUpdate
-from similarity import address_similarity
-from mapbox_client import MapboxClient
+from backend.orm_models import AddressORM
+from backend.database import Base, engine, SessionLocal
+from backend.models import Address, AddressCreate, AddressesRefresh, AddressUpdate
+from backend.similarity import address_similarity
+from backend.mapbox_client import MapboxClient
 
 Base.metadata.create_all(bind=engine)
 
