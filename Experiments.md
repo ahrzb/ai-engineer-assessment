@@ -29,3 +29,7 @@ General solution architectures
     * Of course one can model the problem with a NN, but the failure modes can be quite obscure, a neural network might be a bit more vibe based with the comparison and miss small details in high dimentionality data
     * We can extract numbers (building and postal code) and then use a simple distance metric to compare the rest, it can be implemented as an incremental change to the existing baseline
     * We can use a slightly better distance function, say comparing character ngrams, or maybe sorting before comparing, or some kind of matching/alignment, I don't expect RoI that high with more complex ones, as we can always go the parse based route and that seems a better investment to me if we want to go complex
+
+## Normalization side note
+
+Unicode NFD normaliztion to ensure we're treating diacritics the same way everywhere
