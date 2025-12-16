@@ -33,3 +33,20 @@ General solution architectures
 ## Normalization side note
 
 Unicode NFD normaliztion to ensure we're treating diacritics the same way everywhere
+
+## What did I do
+
+Experiments (meaured by spearman score)
+1. Baseline + NFD: 0.67
+2. Extract country codes with a simple rule: 0.76
+3. Extract the house number and postal codE: 0.73 (while can be extracted reliably, the main issue is how to measure the distance)
+4. Extract the city and street name using NER: 0.81 (this comes at the hefty cost of 100ms latency for NER inference, but in practice, can be optimized quite a bit by using a simple model, though it's takes a bit to prepare one)
+5. Model based probablity calculation: 0.79 (The feature engineering can be quite challenging, also some of the probability numbers are not consistent at all, if an address has a house number and the other does not, the probability of them pointing to the same place is practically zero - if we don't have any context)
+
+I won't deploy this solution to production (because of the slow model) but I think it's a reasonable PoC. In a practical settings honestly I would
+just use the first result from the mapbox, as it is quite similar, mapbox probably solves this problem for a living and their ranking should be quite
+hard to beat. But assuming that's a really business critical issue:
+1. Create a database from the cities or make a good NER with some properly annotated data, would make the thing faster and more reliable
+2. Can we just fix the UX where this data is being entered?
+3. Clear up the definition of the ground truth
+4. Modularize a bit better, I'm passing in the scorer everywhere

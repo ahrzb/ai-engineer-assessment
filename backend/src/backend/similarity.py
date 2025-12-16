@@ -15,8 +15,7 @@ def baseline_similarity(a: str, b: str) -> float:
 
 
 def address_similarity(a: str, b: str) -> float:
-
-    # TODO: implement function to find the best match and return it here
     if not a or not b:
         return 0.0
+
     return baseline_similarity(a, b)

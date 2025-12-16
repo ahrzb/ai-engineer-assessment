@@ -11,5 +11,5 @@ class AddressORM(Base):
     match_score = Column(Float, nullable=True)
 
     def to_pydantic(self):
-        from src.backend.models import Address
+        from backend.models import Address
         return Address(id=self.id, address=self.address, matched_address=self.matched_address, match_score=self.match_score)
