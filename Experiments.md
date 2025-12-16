@@ -1,4 +1,17 @@
-# My thoughts after taking a quick look 
+## Evaluation criterion
+
+The system functions as a ranking system as far as I understand, even scores are subjective scores and not real probabilities. But at the same time the
+dataset lacks the structure of a ranking dataset (we only have one example for each query, not multiple). And also the design of such dataset would be part
+of an evaluation criterion if one wants to obssess over the details, as the data distribution affects the metrics we calcualte.
+
+The other option is classification based options, say cross entropy, accuracy, RoC AUC, etc. They might be a bit useful but I find them also a bit misleading,
+also things like standard PR and RoC don't make much sense when you're comparing distributions too. Maybe some sort of kl-divergence will (how much information
+are we lacking). I'll try to define some, but as these are distribution dependent, I'm not that positive about these.
+
+I think some kind of correlation, specially spearman can be a useful north star metric here, it captures all the things we care about.
+
+
+## My thoughts after taking a quick look
 
 General solution architectures
 
