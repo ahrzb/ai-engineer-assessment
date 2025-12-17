@@ -2,17 +2,23 @@ from __future__ import annotations
 
 import os
 from typing import Optional
-from backend.similarity import address_similarity
 import httpx
 
 from dotenv import load_dotenv
 
+from backend.similarity import AddressSimilarity, BaselineAddressSimilarity
+
 load_dotenv()
 
 class MapboxClient:
-    def __init__(self, token: str | None = None) -> None:
+    def __init__(
+        self,
+        token: str | None = None,
+        similarity: AddressSimilarity | None = None,
+    ) -> None:
         self.token = token or os.getenv("MAPBOX_ACCESS_TOKEN")
         self.client = httpx.Client()
+        self.similarity = similarity or BaselineAddressSimilarity()
 
         if not self.token:
             raise Exception("MAPBOX_ACCESS_TOKEN must be set")
@@ -27,6 +33,4 @@ class MapboxClient:
         if not addresses:
             return None
 
-        addresses.sort(key=lambda x: address_similarity(query, x))
-
-        return addresses[-1]
+        return max(addresses, key=lambda x: float(self.similarity.score(query, x)))
