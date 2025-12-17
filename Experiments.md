@@ -27,8 +27,13 @@ General solution architectures
     * In the parsing approach, we can change the code architecture so that we don't need to parse data from the api, as they already have country/region/building info in a structured format
 2. Define a distance function which handles the difference in orderings properly, without parsing the data
     * Of course one can model the problem with a NN, but the failure modes can be quite obscure, a neural network might be a bit more vibe based with the comparison and miss small details in high dimentionality data
+    * We can use an embedding based solution, but simple cosine would compare the addresses
+    semantically and is not as easy to control/improve, also as dataset is quite small
+    training a model to learn the similarity function is not really feasible. although
+    I think it's worth a try.
     * We can extract numbers (building and postal code) and then use a simple distance metric to compare the rest, it can be implemented as an incremental change to the existing baseline
-    * We can use a slightly better distance function, say comparing character ngrams, or maybe sorting before comparing, or some kind of matching/alignment, I don't expect RoI that high with more complex ones, as we can always go the parse based route and that seems a better investment to me if we want to go complex
+    * We can use a slightly better edit distance function, say comparing character ngrams, or maybe sorting before comparing, or some kind of matching/alignment, I don't expect RoI that high with more complex ones, as we can always go the parse based route and that seems a better investment to me if we want to go complex
+
 
 ## Normalization side note
 
