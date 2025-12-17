@@ -23,10 +23,12 @@ dev = [
     "chardet>=5.2.0",
     "fsner>=0.1.1",
     "jupyter>=1.1.1",
+    "matplotlib>=3.10.8",
     "numpy>=2.3.5",
     "ruff>=0.14.9",
     "scikit-learn>=1.8.0",
     "scipy>=1.16.3",
+    "seaborn>=0.13.2",
     "sentence-transformers>=5.2.0",
     "tqdm>=4.67.1",
 ]
